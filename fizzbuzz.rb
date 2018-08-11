@@ -7,5 +7,6 @@ elsif num % 3 == 0
 return "fizz"
 else num % 5 == 0 
 return "buzz"
-
+end
+end
 num(6)
