@@ -9,4 +9,4 @@ else num % 5 == 0
 return "buzz"
 end
 
-num (6)
+num(6)
